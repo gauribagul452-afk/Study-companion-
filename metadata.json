@@ -1,0 +1,8 @@
+{
+  "name": "AspirantFlow",
+  "description": "A comprehensive study tracker and AI-powered doubt solver for competitive exam aspirants (JEE, NEET, UPSC, NDA).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
